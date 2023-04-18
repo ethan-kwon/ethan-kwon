@@ -11,6 +11,8 @@ My name is Ethan Kwon and I'm currently a Computer Science student at the Univer
 ### Feel free to reach me at
 [Email](mailto:ethan.kwon@uwaterloo.ca)
 
+[LinkedIn](https://www.linkedin.com/in/ethan-kwon/)
+
 
 <!--
 **ethan-kwon/ethan-kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
