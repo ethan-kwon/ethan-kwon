@@ -8,7 +8,7 @@ My name is Ethan Kwon and I'm currently a Computer Science student at the Univer
 #### 🤖Machine Learning 
 
 
-### Feel free to reach me at
+### Feel free to reach me at:
 [Email](mailto:ethan.kwon@uwaterloo.ca)
 
 [LinkedIn](https://www.linkedin.com/in/ethan-kwon/)
