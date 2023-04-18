@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Ethan Kwon and I'm currently a Computer Science student at the University of Waterloo. I'm avidly learning and improving my skills in programming across many domains such as:
+
+📱Mobile Development
+💻Web Development
+🔒Cybersecurity
+🤖Machine Learning
+
+### Feel free to reach me at
+
 <!--
 **ethan-kwon/ethan-kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
